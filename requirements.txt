@@ -1,0 +1,6 @@
+geopandas
+pandas
+matplotlib
+ipyleaflet
+json
+ipywidgets

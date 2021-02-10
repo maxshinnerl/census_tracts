@@ -1,6 +1,6 @@
-geopandas
-pandas
-matplotlib
-ipyleaflet
-json
-ipywidgets
+geopandas==0.8.2
+pandas==1.2.1
+matplotlib==3.3.4
+ipyleaflet==0.13.6
+json==2.0.9
+ipywidgets==7.6.3

@@ -8,3 +8,4 @@ dependencies:
  - ipyleaflet
  - ipywidgets
  - nodejs
+ - voila

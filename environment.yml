@@ -7,3 +7,4 @@ dependencies:
  - pandas
  - ipyleaflet
  - ipywidgets
+ - nodejs
